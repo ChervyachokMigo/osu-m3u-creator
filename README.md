@@ -12,12 +12,12 @@
 установите модули fs и m3u:
 
 cd <путь к node js>
-например cd "c:\Program Files\nodejs"
+например `cd "c:\Program Files\nodejs"`
 
-npm install fs
+`npm install fs`
 дождитесь окончания процесса
 
-npm install m3u
+`npm install m3u`
 дождитесь окончания процесса
 
 если сделали все правильно запускайте батник из этого репозитория 
