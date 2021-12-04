@@ -4,7 +4,7 @@
 
 как использовать:
 
-поменяйте на свой путь стору где 	var Songspath = 'F:\\Songs'
+поменяйте на свой путь стору где 	`var Songspath = 'F:\\Songs'`
 обратные слеши должны быть двойными - \\
 
 поставьте node.js https://nodejs.org/en/download/
