@@ -16,6 +16,9 @@
 
 установите модули fs и m3u:
 
+запустите командную строку cmd:
+*WinKey+R* (выполнить) `cmd`
+
 cd <путь к node js>
 например `cd "c:\Program Files\nodejs"`
 
